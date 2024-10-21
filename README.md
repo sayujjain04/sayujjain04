@@ -1,6 +1,6 @@
 # Hi! My name is Sayuj 👋
 
-Welcome to my profile! I'm a student at the University of Illinois at Urbana-Champaign studying Computer Science + Economics under the Grainger College of Engineering. My main area of expertise is in full-stack application development, but as a developer, I love exploring new technologies and building cool stuff with them. I've also delved into the realms of virtual reality, blockchain, natural language processing, and have recently piqued an interest in the intersection of AI research and application development. 
+Welcome to my profile! I'm a student at the University of Illinois at Urbana-Champaign studying Computer Science + Economics under the Grainger College of Engineering. My main area of expertise is in full-stack application development and data mining, but as a developer, I love exploring new technologies and building cool stuff with them. I've also delved into the realms of virtual reality, blockchain, natural language processing, and have recently piqued an interest in the intersection of AI research and application development. 
 
 I'm always open to new opportunities to grow as a developer and apply my skills, so feel free to contact me through my socials below! ⬇️
 
