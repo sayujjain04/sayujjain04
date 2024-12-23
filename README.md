@@ -6,8 +6,8 @@ I'm always open to new opportunities to grow as a developer and apply my skills,
 
 #### Here are a few things you should know about me:
 
-- 🔭 I’m currently working on **[DataPull](https://www.datapull.io), a lead generation tool with industry specific insights.**
-- 🌱 I’m currently learning **AWS Services & Machine Learning**.
+- 🔭 I’m a founding engineer on **[DataPull](https://www.datapull.io), a lead generation tool with NLP based bulk research.**
+- 🌱 I’m currently learning **Data Processing & Artificial Intelligence**.
 - 👯 I’m open to collaborate with **other Developers**.
 - 📫 How to reach me: **Check out my socials below**
 - ⚡ Fun fact: I'm a beatboxer and perform on stages in the midwest. I love the Mavs #MFFL
